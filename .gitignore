@@ -1,0 +1,4 @@
+node_modules  
+.env
+
+#we are doing gitignore file, so many big files are not uploaded to github
